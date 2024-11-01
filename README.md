@@ -32,4 +32,4 @@ Make sure you have Python installed on your machine. You can download it from [p
 4. Run the application using the following command:
 
    ```bash
-   python3 IMS .py
+   python3 IMS.py
